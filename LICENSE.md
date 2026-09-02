@@ -1,4 +1,15 @@
-Licença da textura da JoaodacarrossaNC.
+# Licença da Textura — JoaodacarrossaNC
 
-Está textura é de propriedade da Comunidade Joaodacarrossa™ Co., é permitida apenas a utilização no servidor oficial.
-É proíbido a modificação, edição, adição, remoção, revenda ou distribuição em outros servidores sem a alta permissão escrita pela Comunidade Joaodacarrossa Co..
+Esta textura é propriedade da Comunidade Joaodacarrossa™ Co. e é destinada exclusivamente à utilização no servidor oficial da Comunidade Joaodacarrossa.
+
+É proibida, sem autorização prévia e por escrito da Comunidade Joaodacarrossa™ Co., qualquer forma de:
+
+- modificação ou edição;
+- adição ou remoção de conteúdo;
+- cópia ou redistribuição;
+- revenda ou comercialização;
+- utilização em outros servidores, projetos ou comunidades.
+
+A utilização desta textura implica a aceitação dos termos desta licença.
+
+Comunidade Joaodacarrossa™ Co. © Todos os direitos reservados.
